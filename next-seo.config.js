@@ -1,4 +1,5 @@
-import { company } from './components/config/company/Details';
+import { company } from "@constants/company/Details";
+
 const { name, seotitle, seodescription, website, logo_url } = company;
 
 export const NEXT_SEO_DEFAULT = {
